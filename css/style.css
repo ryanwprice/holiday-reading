@@ -3,6 +3,7 @@
 }
 html{
 	background: linear-gradient(135deg, #e4f0fb, #87c1f6);
+	background-attachment: fixed;
 }
 
 /*html, body{
@@ -30,6 +31,7 @@ body{
 h1{
 	font-size: 2.5rem;
 	margin-bottom:2em;
+	font-family: "Zapf Chancery", Florence, Parkavenue, cursive;
 }
 
 p{
