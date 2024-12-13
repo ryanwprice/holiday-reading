@@ -34,8 +34,16 @@ h1{
 	font-family: "Zapf Chancery", Florence, Parkavenue, cursive;
 }
 
+h2 {
+	font-size: 1rem;
+}
+
 p{
 	font-style: italic;
+}
+
+p:last-of-type {
+	margin-bottom: 3rem;
 }
 
 ul{
@@ -53,7 +61,7 @@ a:hover {
 }
 
 a:visited{
-	color: #ccc;
+	color: lightskyblue;
 }
 
 
